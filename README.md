@@ -1,5 +1,5 @@
 # Turkish-Broadcast-News-Generation
-Pre-trained model that generates Turkish broadcast news
+Character level model that generates Turkish broadcast news
 
 Some of the generated news:
 
