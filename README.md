@@ -1,5 +1,8 @@
 # Turkish-Broadcast-News-Generation
-Character level model that generates Turkish broadcast news
+Deep LSTM(3 stacks)based Character level model that generates Turkish broadcast news
+
+![Character Level LM](https://user-images.githubusercontent.com/67103746/114676086-997c5800-9d11-11eb-95c6-5f3db1de0daf.png)
+ 
 
 Some of the generated news:
 
